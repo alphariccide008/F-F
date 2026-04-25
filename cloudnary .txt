@@ -1,0 +1,4 @@
+ cloud_name="djetqdl9e",           # your Cloudinary cloud name
+    api_key="574177562338279",        # your Cloudinary API key
+    api_secret="93ONTpDhLBvWcpxWz3dV6cenFC8",  # your Cloudinary API secret (use full secret)
+    secure=True

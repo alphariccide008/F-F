@@ -1,0 +1,47 @@
+# Node modules (huge)
+node_modules
+
+# Expo temp
+.expo
+.expo-shared
+
+# Git
+.git
+.gitignore
+
+# Android / iOS build artifacts
+android/.gradle
+android/app/build
+ios/Pods
+ios/build
+
+# JavaScript source maps (debug only)
+*.js.map
+*.hbc.map
+
+# Hermes binaries (rebuilds automatically)
+hermes
+hermesc
+
+# ICU DLLs
+icudt64.dll
+icuin64.dll
+
+# Native modules (rebuilds automatically)
+*.node
+
+# Logs & OS junk
+*.log
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Cache folders
+.cache
+
+# Web build output
+dist
+web-build
